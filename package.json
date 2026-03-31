@@ -1,10 +1,10 @@
 {
-  "name": "sally-lurks",
-  "version": "0.1.0",
+  "name": "@cynicalsally/lurks",
+  "version": "0.1.1",
   "description": "She's in your terminal. She's in your commits. She sees that `any` type.",
   "main": "lib/cli.js",
   "bin": {
-    "sally-lurks": "./bin/sally-lurks.js"
+    "sally-lurks": "bin/sally-lurks.js"
   },
   "scripts": {
     "test": "node bin/sally-lurks.js --help"
