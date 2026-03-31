@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Sally lurking in the bushes while everything is on fire" width="100%" />
+</p>
+
 # sally-lurks
 
 She's in your terminal. She's in your commits. She sees that `any` type.
@@ -5,7 +9,7 @@ She's in your terminal. She's in your commits. She sees that `any` type.
 **Sally Lurks** installs [Cynical Sally](https://cynicalsally.com) into your developer tools. Status lines, git hooks, and ambient judgment -- all in one command.
 
 ```
-npx sally-lurks
+npx @cynicalsally/lurks
 ```
 
 ```
@@ -46,7 +50,7 @@ npx sally-lurks
 ## Commands
 
 ```bash
-npx sally-lurks            # Install Sally into detected tools
+npx @cynicalsally/lurks            # Install Sally into detected tools
 sally-lurks status         # See what she's watching
 sally-lurks quip           # Get a random quip
 sally-lurks remove         # Remove Sally (she'll judge you)
