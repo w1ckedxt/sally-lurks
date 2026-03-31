@@ -84,7 +84,8 @@ sally-lurks remove
 Sally Lurks is free. If you want full code reviews, roasts, and deep analysis:
 
 - **[Sally CLI](https://cynicalsally.com)** -- full reviews from your terminal
-- **[cynicalsally.com](https://cynicalsally.com)** -- paste any URL, get the truth
+- **[CynicalSally.com](https://cynicalsally.com)** -- roast websites, docs and images
+- **[Sally Lite](https://www.render.com/?utm_source=sally_lurks&utm_medium=referral&utm_campaign=cynical_sally)** -- deploy Sally to your Render stack in seconds
 
 ## License
 
